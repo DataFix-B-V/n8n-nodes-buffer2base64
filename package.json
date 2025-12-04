@@ -1,9 +1,9 @@
 {
     "name": "@datafix/n8n-nodes-buffer2base64",
     "version": "0.1.6",
-    "description": "",
+    "description": "Convert Buffer data to Base64 string in n8n workflows.",
     "license": "MIT",
-    "homepage": "Convert Buffer data to Base64 string",
+    "homepage": "",
     "keywords": [
         "n8n-community-node-package"
     ],
